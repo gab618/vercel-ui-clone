@@ -185,6 +185,7 @@ main h1 span {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  padding: 0 0.67rem;
   -webkit-filter: brightness(0) invert(1);
           filter: brightness(0) invert(1);
   -webkit-animation: colorCycle 10s ease-in-out infinite;
